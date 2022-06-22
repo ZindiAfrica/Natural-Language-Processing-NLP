@@ -1,0 +1,4 @@
+mtranslate==1.8
+pandas==1.2.4
+tqdm
+ittertools
