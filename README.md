@@ -82,10 +82,26 @@ Translation: Social Media has brought the entire world together but with unity c
 
 Zindi has hosted some challenges based on Natural Language Processing Solutions.
 
-Audio:
+## Audio
 
-Text:
+1. [AI4D Baamtu Datamation Automatic Speech Recognition](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Audio/AI4D%20Baamtu%20Datamation%20Automatic%20Speech%20Recognition%20in%20WOLOF)
+
+2. [Fowl Escapades](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Audio/Fowl%20Escapades)
+
+3. [GIZ NLP Agricultural Keyword Spotter](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Audio/GIZ%20NLP%20Agricultural%20Keyword%20Spotter)
 
 
+## Text:
 
-Machine Translation, ASR, Sentiment Analysis, Classification solutions
+1. [#ZindiWeekendz Learning- To Vaccinate or Not to Vaccinate](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Text/%23ZindiWeekendz%20Learning-%20To%20Vaccinate%20or%20Not%20to%20Vaccinate)
+
+2. [AI4D Malawi News Classification Challenge](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Text/AI4D%20Malawi%20News%20Classification%20Challenge)
+
+3. [AI4D Takwimu Lab Machine Translation Challenge](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Text/AI4D%20Takwimu%20Lab%20Machine%20Translation%20Challenge)
+
+4. [AI4D Yorùbá Machine Translation Challenge](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Text/AI4D%20Yor%C3%B9b%C3%A1%20Machine%20Translation%20Challenge)
+
+5. [AI4D iCompass Social Media Sentiment Analysis](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Text/AI4D%20iCompass%20Social%20Media%20Sentiment%20Analysis)
+
+6. [Sustainable Development Goals (SDGs) Text Classification Challenge](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Text/Sustainable%20Development%20Goals%20(SDGs)%20Text%20Classification%20Challenge)
+
