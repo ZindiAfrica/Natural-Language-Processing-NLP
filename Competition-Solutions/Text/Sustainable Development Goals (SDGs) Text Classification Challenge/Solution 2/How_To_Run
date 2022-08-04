@@ -1,0 +1,11 @@
+How to run:
+	$python3 ensmeble.py
+
+	I am asuming the dependencies installed. and data files 'Devex_train.csv', 'Devex_test_questions.csv', and 'Devex_submission_format.csv' are present in current directory.
+
+Ouput:
+	Ouput will be generated in 'sub_voting.csv'.
+
+
+Approach:
+	I have used ensemble of Xgboost LightGBM etc.
