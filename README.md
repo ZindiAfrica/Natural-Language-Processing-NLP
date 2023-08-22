@@ -90,6 +90,10 @@ Zindi has hosted some challenges based on Natural Language Processing Solutions.
 
 3. [GIZ NLP Agricultural Keyword Spotter](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Audio/GIZ%20NLP%20Agricultural%20Keyword%20Spotter)
 
+4. [Swahili Audio Classification Hackathonby #ZindiWeekendz](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Audio/Swahili%20Audio%20Classification%20Hackathonby%20%23ZindiWeekendz)
+
+5. [Swahili Audio Classification](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Audio/Swahili%20Audio%20Classification)
+
 
 ## Text:
 
@@ -104,4 +108,6 @@ Zindi has hosted some challenges based on Natural Language Processing Solutions.
 5. [AI4D iCompass Social Media Sentiment Analysis](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Text/AI4D%20iCompass%20Social%20Media%20Sentiment%20Analysis)
 
 6. [Sustainable Development Goals (SDGs) Text Classification Challenge](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Text/Sustainable%20Development%20Goals%20(SDGs)%20Text%20Classification%20Challenge)
+
+7. [AI4D Swahili News Classification Challenge](https://github.com/ZindiAfrica/Natural-Language-Processing-NLP/tree/main/Competition-Solutions/Text/AI4D%20Swahili%20News%20Classification%20Challenge)
 
