@@ -1,0 +1,15 @@
+Hi Guys, thanks for such a wonderful weekend Hack. Please find attached my basic solution for your Perusal.
+
+The notebooks run on Google Colab platform - I'm using the colab pro version
+The notebooks itself can be run in any order except the final ensemble notebook. The notebooks to run include:
+
+1. One_0.022
+2. two_0.044
+3. three_0.022
+4. four_hug_me
+5. five_Hug me 20 Times
+5. six_Hug me 20 Times
+
+After running all these notebooks, you can ensemble the output using the Final Ensemble notebook.
+
+Thanks once again!
