@@ -79,4 +79,16 @@ These solutions will help researchers from Makerere University who are developin
 These solutions will enable more efficient monitoring and analysis of local language radio programs, and your work can possibly open doors for this type of natural language processing tasks in other local languages across Africa and across other sectors that use radio as a means of communication.
 
 
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+
 
